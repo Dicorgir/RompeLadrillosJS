@@ -1,4 +1,4 @@
-🧱 Breakout Game - Rompeladrillos 🎮
+🧱 <h1>Breakout Game - Rompeladrillos</h1> 🎮
 
 ¡Bienvenido/a al repositorio del clásico juego de Rompeladrillos hecho en JavaScript! 🕹️ Este proyecto es una recreación simple y divertida que combina HTML, CSS y JavaScript para ofrecer una experiencia de juego clásica en tu navegador.
 
