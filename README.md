@@ -1,5 +1,9 @@
 <h1> 🧱Breakout Game - Rompeladrillos 🎮</h1> 
 
+<div align="center">
+  <img width="250" height="420" alt="rompeladrillos_portada" src="https://github.com/user-attachments/assets/fee64c15-06c3-4b29-9bd7-e9df352ecaeb" />
+</div>
+
 ¡Bienvenido/a al repositorio del clásico juego de Rompeladrillos hecho en JavaScript! 🕹️ Este proyecto es una recreación simple y divertida que combina HTML, CSS y JavaScript para ofrecer una experiencia de juego clásica en tu navegador.
 
 <h2>🌟 Características</h2>
